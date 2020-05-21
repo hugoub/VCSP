@@ -1,0 +1,1 @@
+ID del viaje - Terminal inicio - Terminal destino - Hora inicio - Hora término
